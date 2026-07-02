@@ -42,8 +42,8 @@
 
   - Basic: The dog eats food.
 
-  - Adding Adjectives & Adverbs: The <u>**big**<u> dog eats food <u>**quickly**<u>.
+  - Adding Adjectives & Adverbs: The **big** dog eats food **quickly**.
 
-  - Adding Prepositions: The big dog eats food quickly <u>**under the bed**<u>.
+  - Adding Prepositions: The big dog eats food quickly **under the bed**.
 
   - Adding Conjunctions: This big dog eats food **and** drinks water quickly under that bed.
