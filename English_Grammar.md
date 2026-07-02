@@ -4,6 +4,7 @@
     - [The Subject](#the-subject)
     - [The Predicate](#the-predicate)
     - [Core Formula](#core-formula)
+    - [Building Complexity](#building-complexity)
 
 # How English work?
 
@@ -32,3 +33,17 @@
 ### Core Formula
 
 - **Subject + Verb + Object**
+
+### Building Complexity
+
+- Many English learners struggle because they try to memorize long, complicated sentences right away. The correct approach is to start with the most basic structure and layer information on top of it.
+
+- By adding different parts of speech, you can smoothly transition a sentence from simple to advanced:
+
+  - Basic: The dog eats food.
+
+  - Adding Adjectives & Adverbs: The **big** dog eats food **quickly**.
+
+  - Adding Prepositions: The big dog eats food quickly **under the bed**.
+
+  - Adding Conjunctions: This big dog eats food **and** drinks water quickly under that bed.
