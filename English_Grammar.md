@@ -14,6 +14,7 @@
     - [Nouns and Pronouns Have Different Word Types](#nouns-and-pronouns-have-different-word-types)
   - [Verb](#verb)
     - [What is a Verb?](#what-is-a-verb)
+    - [The Traditional 12 English Tenses](#the-traditional-12-english-tenses)
 
 
 # Parts of sentence
@@ -165,3 +166,21 @@
   - The dog is tired.
 - Happening: Something that occurs.
   - It rained yesterday.
+
+### The Traditional 12 English Tenses
+
+- English grammar is commonly taught using 3 time areas and 4 patterns.
+
+| Tense Pattern          | Present                    | Past                    | Future                    |
+| ---------------------- | -------------------------- | ----------------------- | ------------------------- |
+| **Simple**             | Present Simple             | Past Simple             | Future Simple             |
+| **Continuous**         | Present Continuous         | Past Continuous         | Future Continuous         |
+| **Perfect**            | Present Perfect            | Past Perfect            | Future Perfect            |
+| **Perfect Continuous** | Present Perfect Continuous | Past Perfect Continuous | Future Perfect Continuous |
+
+| Tense Pattern          | Present                    | Past                    | Future                    | Activity (When does the action happen?)                                                            |
+| ---------------------- | -------------------------- | ----------------------- | ------------------------- | -------------------------------------------------------------------------------------------------- |
+| **Simple**             | Present Simple             | Past Simple             | Future Simple             | Habits, facts, or actions that happen at a specific time.                                          |
+| **Continuous**         | Present Continuous         | Past Continuous         | Future Continuous         | Actions in progress at a specific point in time.                                                   |
+| **Perfect**            | Present Perfect            | Past Perfect            | Future Perfect            | Actions completed before a specific reference point in time.                                       |
+| **Perfect Continuous** | Present Perfect Continuous | Past Perfect Continuous | Future Perfect Continuous | Actions that started earlier and continued up to a specific reference point, emphasizing duration. |
