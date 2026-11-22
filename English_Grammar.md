@@ -12,6 +12,8 @@
   - [Pronoun](#pronoun)
     - [What is a Pronoun?](#what-is-a-pronoun)
     - [Nouns and Pronouns Have Different Word Types](#nouns-and-pronouns-have-different-word-types)
+  - [Verb](#verb)
+    - [What is a Verb?](#what-is-a-verb)
 
 
 # Parts of sentence
@@ -147,3 +149,19 @@
   - He: singular pronoun.
   - anger: common noun, uncountable in this meaning.
   - sadness: common noun, uncountable in this meaning.
+
+## Verb
+
+### What is a Verb?
+
+- Every predicate has a verb or a complete verb phrase at its center.
+- A verb is a word that expresses:
+  - Action
+  - State
+  - Happening
+- Action: Something someone or something does.
+  - The dog runs down the street.
+- State: A condition or situation.
+  - The dog is tired.
+- Happening: Something that occurs.
+  - It rained yesterday.
