@@ -15,6 +15,12 @@
   - [Verb](#verb)
     - [What is a Verb?](#what-is-a-verb)
     - [The Traditional 12 English Tenses](#the-traditional-12-english-tenses)
+    - [Four tense patterns](#four-tense-patterns)
+    - [Regular Verbs vs. Irregular Verbs](#regular-verbs-vs-irregular-verbs)
+      - [Regular verbs](#regular-verbs)
+      - [Irregular verbs](#irregular-verbs)
+    - [Subject-Verb Agreement](#subject-verb-agreement)
+    - [Tense vs. Mood](#tense-vs-mood)
 
 
 # Parts of sentence
@@ -185,3 +191,84 @@
 | **Continuous**         | I am talking        | I was talking      | I will be talking        |
 | **Perfect**            | I have talked       | I had talked       | I will have talked       |
 | **Perfect Continuous** | I have been talking | I had been talking | I will have been talking |
+
+
+### Four tense patterns
+
+- Simple: Describes an action, fact, habit, or situation.
+  - I work every day.
+- Continuous: Describes an activity in progress around a particular time.
+  - I am working.
+- Perfect: Looks back from one point in time to something earlier.
+  - I have finished my work.
+- Perfect Continuous: Focuses on an activity continuing over a period of time.
+  - I have been working for two hours.
+
+### Regular Verbs vs. Irregular Verbs
+
+| Verb Form                          | Meaning / Usage                                          | Example (Talk) |
+| ---------------------------------- | -------------------------------------------------------- | -------------- |
+| **Base Form (V1)**                 | Original form of the verb                                | Talk           |
+| **Third-person Singular (V-s/es)** | Used with he, she, it in Present Simple                  | Talks          |
+| **Simple Past (V2)**               | Used in Past Simple                                      | Talked         |
+| **Past Participle (V3)**           | Used with have/has/had and in passive voice              | Talked         |
+| **Present Participle (V-ing)**     | Used in Continuous tenses and as a gerund                | Talking        |
+| **To-infinitive**                  | To + base form; used after certain verbs and expressions | To talk        |
+| **Bare Infinitive**                | Base form without "to"; used after modal verbs           | Talk           |
+
+
+#### Regular verbs
+
+- Some forms follow the usual pattern
+- Regular verbs generally form their Simple Past and Past Participle by adding **-ed** to the base form.
+- Examples:
+  - Talk → Talked → Talked
+  - Work → Worked → Worked
+  - Play → Played → Played
+
+#### Irregular verbs
+
+- Some forms don't follow the usual pattern
+- Irregular verbs do not follow the regular **-ed** pattern when forming their Simple Past and Past Participle forms
+- Examples
+
+| Base Form | Simple Past | Past Participle |
+| --------- | ----------- | --------------- |
+| Eat       | Ate         | Eaten           |
+| Go        | Went        | Gone            |
+| Write     | Wrote       | Written         |
+| See       | Saw         | Seen            |
+| Cut       | Cut         | Cut             |
+| Be        | Was/Were    | Been            |
+
+
+### Subject-Verb Agreement
+
+- The verb form can change depending on its subject.
+- In the simple present:
+
+| Subject | Verb  |
+| ------- | ----- |
+| I       | Talk  |
+| You     | Talk  |
+| We      | Talk  |
+| They    | Talk  |
+| He      | Talks |
+| She     | Talks |
+| It      | Talks |
+
+- Remember: **He / She / It + V(s/es)**
+
+### Tense vs. Mood
+
+- Tense and mood are two different concepts.
+- Tense: Shows when a situation happens and how it relates to time.
+- Mood: Shows how the speaker presents the message.
+
+- There are three common moods:
+
+| Mood        | Purpose                                                | Example                      |
+| ----------- | ------------------------------------------------------ | ---------------------------- |
+| Indicative  | used for ordinary statements and questions  | The dog is tired.            |
+| Imperative  | used for commands or requests  | Please sit down.             |
+| Subjunctive | appears in certain wishes,recommendations, demands, and unreal situations.| If I were you, I would wait. |
