@@ -2,6 +2,7 @@
 - [Parts of sentence](#parts-of-sentence)
   - [The Subject](#the-subject)
   - [The Predicate](#the-predicate)
+  - [Object](#object)
   - [Core Formula](#core-formula)
   - [Building Complexity](#building-complexity)
 - [Word types](#word-types)
@@ -21,6 +22,11 @@
       - [Irregular verbs](#irregular-verbs)
     - [Subject-Verb Agreement](#subject-verb-agreement)
     - [Tense vs. Mood](#tense-vs-mood)
+    - [Main Verbs, Helping Verbs and Modal Verbs](#main-verbs-helping-verbs-and-modal-verbs)
+      - [Main Verb](#main-verb)
+      - [Helping Verb (Auxiliary Verb)](#helping-verb-auxiliary-verb)
+      - [Modal Verb](#modal-verb)
+      - [Practical Exercises](#practical-exercises)
 
 
 # Parts of sentence
@@ -44,6 +50,8 @@
 - Grammar role: It starts with a verb (action) and usually contains an object (a noun receiving the action).
 
 - Example: In "The dog runs down the street," runs down the street is the predicate (runs = verb; street = object).
+
+## Object
 
 ## Core Formula
 
@@ -272,3 +280,57 @@
 | Indicative  | used for ordinary statements and questions  | The dog is tired.            |
 | Imperative  | used for commands or requests  | Please sit down.             |
 | Subjunctive | appears in certain wishes,recommendations, demands, and unreal situations.| If I were you, I would wait. |
+
+### Main Verbs, Helping Verbs and Modal Verbs
+
+- A complete verb phrase can contain one or multiple words.
+
+
+#### Main Verb
+
+- The main verb carries the central meaning of the action, state, or happening.
+- Example:
+  - The dog runs down the street.
+  - Here, runs is the main verb.
+
+#### Helping Verb (Auxiliary Verb)
+
+- A helping verb, also called an auxiliary verb, works with the main verb to form tenses, questions, and negatives
+- Common auxiliary verbs:
+  - Be: am, is, are, was, were, been, being
+  - Have: have, has, had
+  - Do: do, does, did
+- Example:
+  - She is standing on the table.
+  - **Is** - Helping verb
+  - **Standing** - Main verb
+
+#### Modal Verb
+
+- A modal verb is a type of helping verb. It expresses meanings such as:
+  - Ability: can, could
+  - Possibility: may, might, could
+  - Permission: can, may
+  - Necessity: must
+  - Advice: should
+- Example:
+  - He could fly in the morning.
+  - **Could** - Modal helping verb
+  - **Fly** - Main verb
+
+#### Practical Exercises
+
+- Identify the complete verb phrase and its components.
+
+- Exercise 1: The boy ate the grapes.
+  - Complete verb: Ate
+  - Main verb: Ate
+  - Verb form: Irregular simple past of eat.
+- Exercise 2: The bear could be in the cave.
+  - Complete verb phrase: Could be
+  - Modal helping verb: Could
+  - Main verb: Be
+- Exercise 3: She is dancing on the table.
+  - Complete verb phrase: Is dancing
+  - Helping verb: Is
+  - Main verb: Dancing
